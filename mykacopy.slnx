@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="mykacopy.vcxproj" Id="154ecfdf-57cb-4ebd-b7c0-9a84acf20072" />
+</Solution>
